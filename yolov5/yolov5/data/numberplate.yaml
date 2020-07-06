@@ -1,0 +1,7 @@
+train: ../plate/images/train/
+val: ../plate/images/test/
+
+nc: 1
+
+# class names
+names: ['number_plate']
